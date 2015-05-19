@@ -1,5 +1,5 @@
 # A1 Requirements
-[![My Main Page](http://www.rodriguezmichael.com)](http://www.rodriguezmichael.com)
+[![My Main Page](RodriguezMichael.com)](http://www.rodriguezmichael.com)
 
 ## **Presentation:**
  **6/18/15: Internet of Things**

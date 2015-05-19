@@ -8,7 +8,7 @@
  
 ## **Screenshot**:
  
- ![My Screen Shot](https://bitbucket.org/mr12j/lis4708a1/raw/master/images/screenshot.jpg
+ ![My Screen Shot](https://bitbucket.org/mr12j/lis4708a1/images/screenshot.png
  "My Screen Shot")
  
  ---
